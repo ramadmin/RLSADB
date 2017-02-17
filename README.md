@@ -3,4 +3,10 @@ This is a repository of submitted issues/suggestions/updates for the RAM Legacy 
 
 - When adding an issue, specify the stock name in the title if applicable
 - Be as specific as possible when describing the issue (for example reference the IDs used in the database)
-- If entering a new stock submission, please include a pdf of the assessment used to fill out the template if possible.
+- If entering a new stock submission, please use the <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/SRDB-template-v2016-05-27.xlsx">current template</a> and include a pdf of the assessment used to fill out the template if possible.
+
+The current RAM documentation/input files are also included below:
+- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/SRDB-template-v2016-05-27.xlsx">RAM Input Template</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Database%20Structure%20(2-16-17).docx">Database Structure Guide</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Summary%20Plot%20Guide%20(2-16-17).docx">Summary Plot Guide</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Supplemental%20Data%20Protocol%20(2-16-17).docx">Supplemental Data Protocol</a>
