@@ -12,4 +12,4 @@ The current RAM documentation/input files are also included below:
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Supplemental%20Data%20Protocol%20(1-30-18).docx">Supplemental Data Protocol</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Database%20Table%20Fields%20(6-4-18).xlsx">Database Table Fields</a>
 
-Additionally current and prior RAM releases are available on the <a href="https://zenodo.org/communities/rlsadb/">RAM Zenodo Community.</a>
+Additionally, current and prior RAM releases are available on the <a href="https://zenodo.org/communities/rlsadb/">RAM Zenodo Community.</a>
