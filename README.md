@@ -8,8 +8,8 @@ This is a repository of submitted issues/suggestions/updates for the RAM Legacy 
 The current RAM documentation/input files are also included below:
 - <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/SRDB-template-v2016-05-27.xlsx">RAM Input Template</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Database%20Structure%20(2-16-17).docx">Database Structure Guide</a>
-- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Summary%20Plot%20Guide%20(3-6-18).docx">Summary Plot Guide</a>
-- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Supplemental%20Data%20Protocol%20(1-30-18).docx">Supplemental Data Protocol</a>
-- <a href="https://github.com/ramadmin/RLSADB/raw/readme-add/Database%20Table%20Fields%20(6-4-18).docx">Database Table Fields</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/master/Summary%20Plot%20Guide%20(6-3-18).docx">Summary Plot Guide</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/master/Supplemental%20Data%20Protocol%20(1-30-18).docx">Supplemental Data Protocol</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/master/Database%20Table%20Fields%20(6-4-18).xlsx">Database Table Fields</a>
 
 Additionally current and prior RAM releases are available on the <a href="https://zenodo.org/communities/rlsadb/">RAM Zenodo Community.</a>
