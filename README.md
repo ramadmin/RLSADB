@@ -12,7 +12,7 @@ The current RAM documentation/input files are also included below:
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Database%20Quick%20Guide%20(12-6-19).docx">Database Quick Guide</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Database%20Structure%20(12-5-19).docx">Database Structure Guide</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Database%20Table%20Fields%20(3-6-23).xlsx">Database Table Fields</a>
-- <a href="https://github.com/ramadmin/RLSADB/raw/master/Supplemental%20Data%20Info%20(112-9-23).docx">Supplemental Data Guide</a>
+- <a href="https://github.com/ramadmin/RLSADB/raw/master/Supplemental%20Data%20Info%20(12-9-23).docx">Supplemental Data Guide</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/RAM%20B-Conversion%20Guide%20(2-1-23).docx">B Conversion Guide</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/RAM%20SP%20Fit%20Guide%20(3-6-23).docx">SP Fit Guide</a>
 - <a href="https://github.com/ramadmin/RLSADB/raw/master/Rdata%20Objects%20(12-9-19).xlsx">Rdata Objects Guide</a>
